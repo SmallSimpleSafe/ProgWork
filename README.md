@@ -2,4 +2,4 @@
 
 BLM 305 dersinin ödevleri
 
-ğışçüö
+1. [sayaç](https://smallsimplesafe.github.io/ProgWork/sayac.html)
